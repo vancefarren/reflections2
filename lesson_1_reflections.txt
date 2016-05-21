@@ -1,0 +1,30 @@
+Viewing a diff between two versions of a file rapidly increased
+the rate at which differences could be discovered.  In a code 
+document of several thousand lines, this would be invaluable.
+
+Having access to the entire history of the file would make me a more
+efficient programmer by easily restoring the last functioning version
+of a program in the event that the current version is inexplicably broken.
+Even if the differences between immediately prior versions can be seen,
+it may not be thoroughly understood why the program is not working.  A much
+earlier version of the program may need to be accessed, and a different 
+development path chosen.
+
+Manual Commits
+
+Pros: good organization of versions
+Cons: more complicated method of saving documents
+
+Using Git to View History
+
+Use git log to discover commit history, including ID tags and comments
+regarding what was changed.  Use git diff to quickly determine the exact
+changes made.
+
+How might using version control make you more confident to make changes that could break something?
+
+I will obviously be more confident in making changes if I can revert to a previous version.
+
+What do you want to use Git for?
+I want to use git to complete the Android Developer Nanodegree.  I am sure that other uses will
+arise in the future.

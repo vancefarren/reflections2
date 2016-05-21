@@ -1,7 +1,18 @@
-Having access to the entire history of the file would make me a more
-efficient programmer by easily restoring the last functioning version
-of a program in the event that the current version is inexplicably broken.
-Even if the differences between immediately prior versions can be seen,
-it may not be thoroughly understood why the program is not working.  A much
-earlier version of the program may need to be accessed, and a different 
-development path chosen.
+What happens when you initialize a respository? Why do you need to do it?
+
+Gotta start somewhere!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+The staging area is where things first go.  The working directory is for 
+committed things.  The respository is for committed things
+
+What are some situations when branches would be helpful in keeping your
+ history organized? How would branches help?
+ 
+ If I want to make an entirely new version of a program
+ 
+ 
+ 
+ 
